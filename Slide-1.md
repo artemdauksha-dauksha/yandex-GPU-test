@@ -7,11 +7,8 @@
 
 ## Слайд 2 — С какой маржой Atlas Cloud продаёт DeepSeek V4 Pro
 
-Руководитель пересылает вам ссылку: <https://www.atlascloud.ai/models/deepseek-ai/deepseek-v4-pro>
-
+Ссылка: <https://www.atlascloud.ai/models/deepseek-ai/deepseek-v4-pro>
 > «Atlas Cloud продаёт DeepSeek V4 Pro по $1.68 за миллион входных токенов и $3.38 за миллион выходных. Они на этом зарабатывают, работают в ноль или вообще в минус?»
-
-Подготовьте один слайд с ответом.
 
 ## Что прислать
 
