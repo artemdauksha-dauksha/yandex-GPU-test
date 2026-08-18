@@ -7,9 +7,6 @@ Test case for job opportunity: https://yandex.ru/jobs/vacancies/tehnicheskiy-men
 
 > «Сколько у OpenAI и Anthropic GPU? И как они делятся между обучением моделей и обслуживанием пользователей (инференсом)?» (на май 2026)
 
-- Решение:
-
-
 ## Слайд 2 — С какой маржой Atlas Cloud продаёт DeepSeek V4 Pro
 
 Руководитель пересылает вам ссылку: <https://www.atlascloud.ai/models/deepseek-ai/deepseek-v4-pro>
